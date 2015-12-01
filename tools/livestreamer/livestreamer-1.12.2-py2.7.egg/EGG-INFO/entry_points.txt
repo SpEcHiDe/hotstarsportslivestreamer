@@ -1,3 +1,0 @@
-[console_scripts]
-livestreamer = livestreamer_cli.main:main
-
